@@ -129,9 +129,9 @@ Execute the program using runserver command.
 </table>
 </body>
 ```
-
 ## OUTPUT
-[alt text](raji/slotapp/static/logo.png)T
+![alt text](<Screenshot .png>)
+
 
 
 ## RESULT
